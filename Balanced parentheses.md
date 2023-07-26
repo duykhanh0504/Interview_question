@@ -7,6 +7,7 @@ Open brackets must be closed in the correct order.
 Examples:
 Input: str = “((5))[]” 
 Output: true 
+
 Input: str = “))(({5}{” 
 Output: False
  
